@@ -1,25 +1,12 @@
-SevTech: Ages – Unofficial Mirror
+# SevTech: Ages – Unofficial Mirror
 
-Summary:
-SevTech: Ages is a progression-based modpack by Darkosto, guiding players through the Ages of Minecraft — from primitive tools to advanced technology and magic. This Modrinth upload is an unofficial mirror, hosted with permission from Darkosto, with full credit to the original creators.
+Copyright (c) 2025 Darkosto and the SevTech Team
 
-Features:
+This repository is an **unofficial mirror** of the SevTech: Ages modpack, uploaded with permission from Darkosto.  
+All original content, configurations, and progression systems are © Darkosto and the SevTech Team.  
 
-Gradual progression system unlocking new tools, blocks, and mechanics as you advance.
+This repository does **not** grant any ownership rights. Users must respect the original author's copyright.  
+For official updates, downloads, and support, visit the original CurseForge page:  
+https://www.curseforge.com/minecraft/modpacks/sevtech-ages
 
-New biomes, mobs, and dimensions to explore.
-
-Challenging survival experience encouraging exploration, crafting, and combat.
-
-Optional performance and graphical enhancement via OptiFine.
-
-Credits & License:
-
-Original modpack by Darkosto and the SevTech team.
-
-Uploaded with permission as an unofficial mirror.
-
-All content, configs, and progression are © Darkosto and team.
-
-For official updates, support, and more information, visit the original CurseForge page
-.
+You may use this repository for **personal use only**. Redistribution, modification, or commercial use without the explicit permission of Darkosto is prohibited.
